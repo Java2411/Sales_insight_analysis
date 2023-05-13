@@ -7,6 +7,7 @@ This sales insight analysis pertains to Atliq Hardwares, an Indian company that 
 . Sales director needs insight of the sales across all the branches in India
 
 . Actions should be made to increase sales, which have significantly decreased during the past few years
+### **Project plannning**
 
 ### Instructions to setup mysql on your local computer
 
