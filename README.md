@@ -39,12 +39,13 @@ The project planning has four stages:
 ### End Result
 * An automated dashboard providind quick and latest insights inorder to make data driven decisions
 
-* Sales team are able to make better decision which increases the sales by atleast 10 %
-
-*Sales analyst stop gathering data manually inorder to save 20 % of thier businesss time and reinvest them in other value added activities
-
 ### Success criteria
 * Dashboard uncovering sales order insightwith latest data available
+
+* Sales team are able to make better decision which increases the sales by atleast 10 %
+
+
+* Sales analyst stop gathering data manually inorder to save 20 % of thier businesss time and reinvest them in other value added activities
 
 ### Instructions to setup mysql on your local computer
 
