@@ -1,4 +1,6 @@
 ## Sales Insights Data Analysis Project
+### Introduction
+This sales insight analysis pertains to Atliq Hardwares, an Indian company that sells hardware and has its headquarters in New Delhi.
 
 ### Instructions to setup mysql on your local computer
 
