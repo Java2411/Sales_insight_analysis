@@ -20,7 +20,7 @@ The project planning has four stages:
 
 4. Success criteria
 
-###**Purpose:**
+### Purpose:
 . To unlock sales insight that are not visible for the  sales team for future decision making. 
 
 . To Automate and reduce manual time in data gathering for analysis.
