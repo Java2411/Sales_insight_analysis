@@ -11,9 +11,14 @@ This sales insight analysis pertains to Atliq Hardwares, an Indian company that 
 AIMS Grid is a project managemnet and data discovery tool.It is employed to define the project's success criteria and conduct project planning brainstorming sessions. 
 
 The project planning has four stages:
-*Purpose
 
-*Stakeholders
+1. Purpose
+
+2. Stakeholders
+
+3. End result
+
+4. Success criteria
 
 
 ### Instructions to setup mysql on your local computer
