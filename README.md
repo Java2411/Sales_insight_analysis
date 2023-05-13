@@ -8,7 +8,12 @@ This sales insight analysis pertains to Atliq Hardwares, an Indian company that 
 
 . Actions should be made to increase sales, which have significantly decreased during the past few years
 ### **Project Planning**
-AIMS Grid is a project managemnet and data discovery tool.It is employed to define the project's success criteria and conduct project planning brainstorming sessions.
+AIMS Grid is a project managemnet and data discovery tool.It is employed to define the project's success criteria and conduct project planning brainstorming sessions. 
+
+The project planning has four stages:
+*Purpose
+
+*Stakeholders
 
 
 ### Instructions to setup mysql on your local computer
