@@ -20,11 +20,12 @@ The project planning has four stages:
 
 4. Success criteria
 
-##**Purpose:**
+###**Purpose:**
 . To unlock sales insight that are not visible for the  sales team for future decision making. 
 
 . To Automate and reduce manual time in data gathering for analysis.
-##**Stake Holders**
+
+###**Stake Holders**
 . Sales Director
 
 . Marketing team
@@ -34,7 +35,8 @@ The project planning has four stages:
 . Data Analysis team
 
 . Software Engineer team
-##**End Result
+
+###**End Result
 
 ### Instructions to setup mysql on your local computer
 
