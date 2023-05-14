@@ -52,19 +52,19 @@ The project planning has four stages:
 1. Follow step in this video to install mysql on your local computer
 https://www.youtube.com/watch?v=WuBcTJnIuzo
 
-1. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer. The db_dump.sql is the database for sales across all the markets of Atliq hardwares.
+1. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer. The db_dump.sql is theself contained SQL file for sales across all the markets of Atliq hardwares.
+
+Create a new connection in mySQL Workbench and import the `db_dump.sql` database. This will create the entire database along with records in your system.
 
 ![data source](https://github.com/Java2411/Sales_insight_analysis/assets/133401917/7087d039-5012-4190-a0ae-3626ba1d3c5c)
 
+
+
 **Note**: If you download the latet version 8.0.33 whole mysql package for some update mismatch reason you cannot connect Power BI to Mysql sever. For that you have to only downgrade mysql-connector-net-8.0.33 to mysql-connector-net-8.0.28. 
 
-![image](https://github.com/Java2411/Sales_insight_analysis/assets/133401917/83e88a2f-d55b-4092-8b2b-950708f7add6)
+![connection error](https://github.com/Java2411/Sales_insight_analysis/assets/133401917/eddfa874-ee37-480a-b6a3-d1d357613914)
 
-
-
-
-
-### Data Analysis Using SQL
+### Data Analysis Using SQL to get some initial insights about the data available
 
 1. Show all customer records
 
