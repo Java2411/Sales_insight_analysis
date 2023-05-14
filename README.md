@@ -42,7 +42,7 @@ The project planning has four stages:
 ### Success criteria
 * Dashboard uncovering sales order insightwith latest data available
 
-* Sales team are able to make better decision which increases the sales by atleast 10 %
+* Sales team are able to make better decision prove 10% cost savings of total spend
 
 
 * Sales analyst stop gathering data manually inorder to save 20 % of thier businesss time and reinvest them in other value added activities
@@ -52,7 +52,13 @@ The project planning has four stages:
 1. Follow step in this video to install mysql on your local computer
 https://www.youtube.com/watch?v=WuBcTJnIuzo
 
-1. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer and import it as per instructions given in the tutorial video
+
+1. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer 
+
+![data source](https://github.com/Java2411/Sales_insight_analysis/assets/133401917/7087d039-5012-4190-a0ae-3626ba1d3c5c)
+
+
+
 
 ### Data Analysis Using SQL
 
