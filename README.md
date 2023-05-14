@@ -107,11 +107,20 @@ and transactions.market_code="Mark001";`
 Data Analysis Using Power BI
 ============================
 
-
+You have to pull your data from the database Get Data -> Database -> MySQL database
 
 **Note**: If you download the latet version 8.0.33 whole mysql package for some update mismatch reason you cannot connect Power BI to Mysql sever. For that you have to only downgrade mysql-connector-net-8.0.33 to mysql-connector-net-8.0.28. 
 
 ![connection error](https://github.com/Java2411/Sales_insight_analysis/assets/133401917/eddfa874-ee37-480a-b6a3-d1d357613914)
+
+Then establish connection between the 'sales' database running in MySQL server on local machine
+
+![localhost and database name](https://github.com/Java2411/Sales_insight_analysis/assets/133401917/c9c77153-958f-4af5-a9c8-ac007b70803c)
+
+Once successful you can select all the tables from the database for your data analysis purpose. You can perform transform ETL operations on the table before loading them onto the worksheet.
+
+![database connection established](https://github.com/Java2411/Sales_insight_analysis/assets/133401917/c3c3359e-3d55-4be5-931b-a628bbf66532)
+
 
 
 1. Formula to create norm_amount column
