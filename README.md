@@ -58,12 +58,6 @@ Create a new connection in mySQL Workbench and import the `db_dump.sql` database
 
 ![data source](https://github.com/Java2411/Sales_insight_analysis/assets/133401917/7087d039-5012-4190-a0ae-3626ba1d3c5c)
 
-
-
-**Note**: If you download the latet version 8.0.33 whole mysql package for some update mismatch reason you cannot connect Power BI to Mysql sever. For that you have to only downgrade mysql-connector-net-8.0.33 to mysql-connector-net-8.0.28. 
-
-![connection error](https://github.com/Java2411/Sales_insight_analysis/assets/133401917/eddfa874-ee37-480a-b6a3-d1d357613914)
-
 ### Data Analysis Using SQL to get some initial insights about the data available
 
 1. Show all customer records
@@ -102,6 +96,10 @@ Create a new connection in mySQL Workbench and import the `db_dump.sql` database
 
     `SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020
 and transactions.market_code="Mark001";`
+
+**Note**: If you download the latet version 8.0.33 whole mysql package for some update mismatch reason you cannot connect Power BI to Mysql sever. For that you have to only downgrade mysql-connector-net-8.0.33 to mysql-connector-net-8.0.28. 
+
+![connection error](https://github.com/Java2411/Sales_insight_analysis/assets/133401917/eddfa874-ee37-480a-b6a3-d1d357613914)
 
 
 Data Analysis Using Power BI
