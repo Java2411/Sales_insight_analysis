@@ -121,6 +121,16 @@ Once successful you can select all the tables from the database for your data an
 
 ![database connection established](https://github.com/Java2411/Sales_insight_analysis/assets/133401917/c3c3359e-3d55-4be5-931b-a628bbf66532)
 
+we are gonna see the data model or relationships betweeen the table. While importing by default it established relationship between the data as follows:
+
+![data model](https://github.com/Java2411/Sales_insight_analysis/assets/133401917/e5149459-3364-46f3-9518-8ee552ee62b4)
+
+##**Star achema**
+Now we are gonna establish some relattionship manually. Just drag and drop markets_code on sales markets table to market_code on sales transactions table. Also drag and drop order_date of sales transactions table to date  column on sales date table. Now we have establishes a star schema. 
+
+
+
+
 
 
 1. Formula to create norm_amount column
