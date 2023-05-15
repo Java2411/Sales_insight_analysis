@@ -125,11 +125,16 @@ we are gonna see the data model or relationships betweeen the table. While impor
 
 ![data model](https://github.com/Java2411/Sales_insight_analysis/assets/133401917/e5149459-3364-46f3-9518-8ee552ee62b4)
 
-##**Star achema**
+**Star schema**
+
 Now we are gonna establish some relattionship manually. Just drag and drop markets_code on sales markets table to market_code on sales transactions table. Also drag and drop order_date of sales transactions table to date  column on sales date table. Now we have establishes a star schema. 
 
+![star schema](https://github.com/Java2411/Sales_insight_analysis/assets/133401917/377ca380-b396-4aa2-9f3d-f2718240bcce)
 
 
+A star schema is a multi-dimensional data model used to organize data in a database so that it is easy to understand and analyze. Star schemas can be applied to data warehouses, databases, data marts, and other tools. The star schema design is optimized for querying large data sets.
+
+**Data cleaning and ETL:**
 
 
 
