@@ -1,14 +1,14 @@
 ## Sales Insights Data Analysis Project
-### Introduction
+### Introduction:
 This sales insight analysis pertains to Atliq Hardwares, an Indian company that sells hardware and has its headquarters in New Delhi.
-### Problem Statement
+### Problem Statement:
 . Failing to track sales in dynamic growing market
 
 . Sales director needs insight of the sales across all the branches in India
 
 . Actions should be made to increase sales, which have significantly decreased during the past few years
 
-###**Tools used**:
+### Tools used:
 * MySQL 
 
 
