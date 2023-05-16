@@ -8,7 +8,7 @@ This sales insight analysis pertains to Atliq Hardwares, an Indian company that 
 
 . Actions should be made to increase sales, which have significantly decreased during the past few years
 
-##**Tools used**:
+###**Tools used**:
 * MySQL 
 
 
@@ -17,7 +17,13 @@ This sales insight analysis pertains to Atliq Hardwares, an Indian company that 
 
 * Power BI
 
-*DAX for calculated measures and calculated columns
+* DAX for calculated measures and calculated columns
+
+* ETL using Power Query
+
+
+
+
 
 
 
