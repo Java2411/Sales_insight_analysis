@@ -7,6 +7,21 @@ This sales insight analysis pertains to Atliq Hardwares, an Indian company that 
 . Sales director needs insight of the sales across all the branches in India
 
 . Actions should be made to increase sales, which have significantly decreased during the past few years
+
+##**Tools used**:
+* MySQL 
+
+
+* MySQL workbench
+
+
+* Power BI
+
+*DAX for calculated measures and calculated columns
+
+
+
+
 ### **Project Planning**
 AIMS Grid is a project managemnet and data discovery tool.It is employed to define the project's success criteria and conduct project planning brainstorming sessions. 
 
